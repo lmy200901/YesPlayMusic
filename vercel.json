@@ -1,1 +1,8 @@
-
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-api.lmy3520.co/match*"
+    }
+  ]
+}
